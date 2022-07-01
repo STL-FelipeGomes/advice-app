@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(218, 23%, 16%);
+}
+
+.content .not-find h1 {
+  font-size: 2rem;
+  color: #fff;
+}
